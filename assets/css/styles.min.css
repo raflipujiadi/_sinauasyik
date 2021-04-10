@@ -1,1 +1,37 @@
-a{border:none}*{outline:0}#wp{position:fixed;z-index:100;height:60px;width:60px;right:40px;bottom:40px;border-radius:50px;background-color:#26e707;font-size:30px;text-align:center;box-shadow:2px 2px 3px #000;color:#fff}#wp:hover{text-decoration:none}.rect{border-radius:25px;background-color:#fff;margin:25px 5px;width:345px;height:200px;float:left}#rect-3{margin-left:175px}
+a {
+  border: none;
+}
+* {
+  outline: 0;
+}
+#wp {
+  position: fixed;
+  z-index: 100;
+  height: 60px;
+  width: 60px;
+  right: 40px;
+  bottom: 40px;
+  border-radius: 50px;
+  background-color: #26e707;
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #000;
+  color: #fff;
+}
+#wp:hover {
+  text-decoration: none;
+}
+.rect {
+  border-radius: 25px;
+  background-color: #fff;
+  margin: 25px 5px;
+  width: 345px;
+  height: 200px;
+  float: left;
+}
+#rect-3 {
+  margin-left: 175px;
+}
+.sinau_asik {
+  color: rgba(131, 2, 128, 1);
+}
